@@ -20,7 +20,9 @@ http://localhost:9091/
 
 et Grafana :
 
-http://localhost:3000/
+http://localhost:3000/dashboards
+
+Allez dans le dossier General puis dans le dossier Projet Attrition. Cela peut prendre un peu de temps pour que la visualisation s'affiche. Il faut d'abord que l'entrainement se termine et puissent exposer les données.
 
 
 # 🦾 Rapport sur le modèle Spark ML
