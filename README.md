@@ -22,7 +22,7 @@ et Grafana :
 
 http://localhost:3000/dashboards
 
-Allez dans le dossier General puis dans le dossier Projet Attrition. Cela peut prendre un peu de temps pour que la visualisation s'affiche. Il faut d'abord que l'entrainement se termine et puissent exposer les données.
+Allez dans le dossier General puis dans le dossier Projet Attrition. Cela peut prendre un peu de temps pour que la visualisation s'affiche. Il faut d'abord que l'entrainement se termine et puisse exposer les données.
 
 
 # 🦾 Rapport sur le modèle Spark ML
@@ -79,7 +79,7 @@ Nous aimerions et espérons avoir vos retours concernant ce problème.
 
 Nous avons décidé d'utilisé Grafana pour la visualisation et pour représenter notre accuracy pour chacun des modèles : gbt, rf et lr.
 
-Nous avons utilisé la visualisation "Bar Gauge" qui nous permet rapidement d'appércier les différences entre nos 3 modèles.
+Nous avons utilisé la visualisation "Bar Gauge" qui nous permet rapidement d'apprécier les différences entre nos 3 modèles.
 https://drive.google.com/file/d/1HJAv1clcHnvXQq9-prd_LZQOizMDD5H9/view
 
 # Conclusion
