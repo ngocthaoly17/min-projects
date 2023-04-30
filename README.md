@@ -23,7 +23,7 @@ et Grafana :
 http://localhost:3000/
 
 
-# Rapport sur le modèle Spark ML
+# 🦾 Rapport sur le modèle Spark ML
 
 ## Introduction
 Le but de ce rapport est de présenter les différentes étapes qui ont été effectuées pour construire un modèle de Machine Learning avec Spark. Le modèle a été développé pour résoudre un problème lié à l'attrition des employées.
@@ -38,7 +38,7 @@ Enlever les valeurs aberrantes Convertir les données dans leur bon type Enlever
 ## Evaluation du modèle
 Enfin, nous avons regardé les métriques d'évaluation pour garder le modèle le plus efficace.
 
-# Rapport sur le monitoring
+# 📈 Rapport sur le monitoring
 
 ## UPDATE MONITORING - Résolution du problème
 
@@ -68,7 +68,10 @@ Nous cherchons actuellement une solution en regardant comment utiliser la foncti
 
 Nous aimerions et espérons avoir vos retours concernant ce problème.
 
-# Rapport sur la visualisation
+⚠️ nous avons résolu le problème ⬆ à voir le paragraphe du haut.
+
+
+# 📊 Rapport sur la visualisation
 
 ## Grafana
 
