@@ -77,8 +77,8 @@ Nous avons décidé d'utilisé Grafana pour la visualisation et pour représente
 Nous avons utilisé la visualisation "Bar Gauge" qui nous permet rapidement d'appércier les différences entre nos 3 modèles.
 https://drive.google.com/file/d/1HJAv1clcHnvXQq9-prd_LZQOizMDD5H9/view
 
-## Conclusion
+# Conclusion
 En conclusion, nous avons présenté les différentes étapes qui ont été effectuées pour construire un modèle de Machine Learning avec Spark. Nous avons utilisé des techniques de visualisation et d'analyse pour comprendre le problème et nettoyé les données pour préparer le modèle. Nous avons ensuite utilisé la vectorisation des données pour la modélisation et testé différents algorithmes en faisant du fine tuning sur les hyperparamètres. Enfin, nous avons regardé les métriques d'évaluation pour garder le modèle le plus efficace. Nous avons exposés nos données à l'aide de prometheus et créé un dashboard avec un panel pour visualiser l'accuracy de nos modèles.
 
-# projet réalisé par :
+# Projet réalisé par :
 Valentin GUERARD, Ngoc Thao LY, Gabriello ZAFIFOMENDRAHA, Thomas MERCIER, Gaëtan ALLAH ASRA BADJINAN
